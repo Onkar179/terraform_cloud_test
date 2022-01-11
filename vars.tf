@@ -1,7 +1,7 @@
 variable "access_key"{
-default = ""
+default = "123"
 }
 
 variable "secret_key"{
-default = ""
+default = "445"
 }
